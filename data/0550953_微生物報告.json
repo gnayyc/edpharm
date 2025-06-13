@@ -1,0 +1,449 @@
+[
+  {
+    "RptDate": "114.06.08",
+    "RptTime": "09:09:50",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK568D0156",
+    "OrganCount": "0",
+    "Status": "最終",
+    "SpecName": "Blood",
+    "DicName": "Blood Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "No Growth for 5 days",
+        "RptDate": "114.06.08",
+        "RptTime": "09:09:48"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.06.08",
+    "RptTime": "09:09:49",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK568D0154",
+    "OrganCount": "0",
+    "Status": "最終",
+    "SpecName": "Blood",
+    "DicName": "Blood Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "No Growth for 5 days",
+        "RptDate": "114.06.08",
+        "RptTime": "09:09:48"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.06.06",
+    "RptTime": "15:37:49",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK566N0749",
+    "OrganCount": "1",
+    "Status": "最終",
+    "SpecName": "Urine(有抗生素)",
+    "DicName": "Fungus Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Candida glabrata",
+        "RptDate": "114.06.06",
+        "RptTime": "14:20:27"
+      }
+    ],
+    "RisRptSub": [
+      {
+        "DiskName": "Caspofungin",
+        "Ris1": "S",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "<=0.12",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Flucytosine",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=64",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Micafungin",
+        "Ris1": "S",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "<=0.06",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      }
+    ]
+  },
+  {
+    "RptDate": "114.06.05",
+    "RptTime": "16:51:40",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK565P0833",
+    "OrganCount": "1",
+    "Status": "初步",
+    "SpecName": "Urine(有抗生素)",
+    "DicName": "Fungus Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Candida glabrata",
+        "RptDate": "114.06.05",
+        "RptTime": "16:53:18"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.06.04",
+    "RptTime": "15:21:18",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK564N0551",
+    "OrganCount": "1",
+    "Status": "最終",
+    "SpecName": "Sputum",
+    "DicName": "Aerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Acinetobacter baumannii, PDR strain",
+        "RptDate": "114.06.04",
+        "RptTime": "15:09:16"
+      }
+    ],
+    "RisRptSub": [
+      {
+        "DiskName": "Ceftazidime",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=64",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Colistin",
+        "Ris1": "I",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "<=0.5",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Ceftriaxone",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=64",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Cefepime",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=64",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Gentamicin",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=16",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Levofloxacin",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=8",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Meropenem",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=16",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Minocycline",
+        "Ris1": "I",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Ampicillin/sulbactam",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=32",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Trimethoprim/Sulfamethoxazole",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=320",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Piperacillin/Tazobactam",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=128",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      }
+    ]
+  },
+  {
+    "RptDate": "114.06.04",
+    "RptTime": "15:05:30",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK564M0480",
+    "OrganCount": "1",
+    "Status": "最終",
+    "SpecName": "Sputum",
+    "DicName": "Aerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Acinetobacter seifertii",
+        "RptDate": "114.06.04",
+        "RptTime": "14:55:32"
+      }
+    ],
+    "RisRptSub": [
+      {
+        "DiskName": "Ceftazidime",
+        "Ris1": "I",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "16",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Colistin",
+        "Ris1": "I",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "2",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Ceftriaxone",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=64",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Cefepime",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "32",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Gentamicin",
+        "Ris1": "S",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "<=1",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Levofloxacin",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=8",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Meropenem",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=16",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Ampicillin/sulbactam",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=32",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Trimethoprim/Sulfamethoxazole",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "160",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Piperacillin/Tazobactam",
+        "Ris1": "R",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": ">=128",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      }
+    ]
+  },
+  {
+    "RptDate": "114.06.04",
+    "RptTime": "11:38:30",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK564H0400",
+    "OrganCount": "1",
+    "Status": "最終",
+    "SpecName": "Urine(有抗生素)",
+    "DicName": "Aerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Yeast-like organism",
+        "RptDate": "114.06.04",
+        "RptTime": "10:28:48"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.06.03",
+    "RptTime": "16:20:30",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK563O0730",
+    "OrganCount": "0",
+    "Status": "最終",
+    "SpecName": "Sputum",
+    "DicName": "Aerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Mixed flora",
+        "RptDate": "114.06.03",
+        "RptTime": "15:10:35"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.06.03",
+    "RptTime": "16:13:18",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK563O0691",
+    "OrganCount": "1",
+    "Status": "初步",
+    "SpecName": "Sputum",
+    "DicName": "Aerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Acinetobacter baumannii",
+        "RptDate": "114.06.03",
+        "RptTime": "16:15:00"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.06.03",
+    "RptTime": "15:41:18",
+    "ChartNo": "0000550953",
+    "OrganUnicode": "NK563N0606",
+    "OrganCount": "1",
+    "Status": "初步",
+    "SpecName": "Urine(有抗生素)",
+    "DicName": "Aerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Yeast-like organism",
+        "RptDate": "114.06.03",
+        "RptTime": "15:42:59"
+      }
+    ],
+    "RisRptSub": []
+  }
+]

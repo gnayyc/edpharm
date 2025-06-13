@@ -1,0 +1,114 @@
+[
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0929",
+    "Qty": "1.000",
+    "UnitDesc": "CAP",
+    "AliseDesc": "Vitamin B complex【洗腎用】"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0929",
+    "Qty": "0.500",
+    "UnitDesc": "TAB",
+    "AliseDesc": "Famotidine 20mg/tab"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0929",
+    "Qty": "1.000",
+    "UnitDesc": "TAB",
+    "AliseDesc": "Quetiapine 25mg/tab"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0930",
+    "Qty": "2.000",
+    "UnitDesc": "PK",
+    "AliseDesc": "【Kalimate】Calcium polystyrene sulfonate 5g/pack"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0930",
+    "Qty": "1.000",
+    "UnitDesc": "TAB",
+    "AliseDesc": "Acetylcysteine 600mg/tab【祛痰】"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0930",
+    "Qty": "1.000",
+    "UnitDesc": "TAB",
+    "AliseDesc": "Folic acid 5mg/tab"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0933",
+    "Qty": "50.000",
+    "UnitDesc": "MG",
+    "AliseDesc": "Tigecycline 50mg/vial"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0933",
+    "Qty": "66.800",
+    "UnitDesc": "MG",
+    "AliseDesc": "Colistin 2MU(66.8mg)/vial"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "0933",
+    "Qty": "100.000",
+    "UnitDesc": "MG",
+    "AliseDesc": "Micafungin 50mg/vial"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "1200",
+    "Qty": "1.000",
+    "UnitDesc": "TAB",
+    "AliseDesc": "Acetaminophen 500mg/tab"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "1300",
+    "Qty": "2.000",
+    "UnitDesc": "PK",
+    "AliseDesc": "【Kalimate】Calcium polystyrene sulfonate 5g/pack"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "1436",
+    "Qty": "1.000",
+    "UnitDesc": "AMP",
+    "AliseDesc": "Amiodarone 150mg/3ml/amp"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "1436",
+    "Qty": "1.000",
+    "UnitDesc": "BOT",
+    "AliseDesc": "Dextrose 5%,500ml/pack or bot"
+  },
+  {
+    "ConfOper": "113305",
+    "ConfDate": "1140610",
+    "ConfTime": "1555",
+    "Qty": "1.000",
+    "UnitDesc": "AMP",
+    "AliseDesc": "Amiodarone 150mg/3ml/amp"
+  }
+]

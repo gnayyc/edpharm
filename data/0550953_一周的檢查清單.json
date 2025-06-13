@@ -1,0 +1,46 @@
+[
+  {
+    "Status": "放射報告",
+    "UniKey": "IXA2560337",
+    "ChartNo": "0550953",
+    "ExamSource": "病房",
+    "ExamDate": "2025/06/05",
+    "ExamType": "Chest  AP  - Portable",
+    "DrNo": "林",
+    "ButtonTitle": "Radiology Report",
+    "ReportDate": "2025/06/06"
+  },
+  {
+    "Status": "放射報告",
+    "UniKey": "IXA2560696",
+    "ChartNo": "0550953",
+    "ExamSource": "病房",
+    "ExamDate": "2025/06/09",
+    "ExamType": "Chest  AP  - Portable",
+    "DrNo": "葉",
+    "ButtonTitle": "Radiology Report",
+    "ReportDate": "2025/06/10"
+  },
+  {
+    "Status": "EKG",
+    "UniKey": "IEA2560642",
+    "ChartNo": "0550953",
+    "ExamSource": "",
+    "ExamDate": "2025/06/07",
+    "ExamType": "EKG",
+    "DrNo": "",
+    "ButtonTitle": "EKG",
+    "ReportDate": "2025/06/07"
+  },
+  {
+    "Status": "EKG",
+    "UniKey": "IEA2560387",
+    "ChartNo": "0550953",
+    "ExamSource": "",
+    "ExamDate": "2025/06/04",
+    "ExamType": "EKG",
+    "DrNo": "",
+    "ButtonTitle": "EKG",
+    "ReportDate": "2025/06/04"
+  }
+]

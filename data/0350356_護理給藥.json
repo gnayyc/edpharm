@@ -1,0 +1,66 @@
+[
+  {
+    "ConfOper": "111768",
+    "ConfDate": "1140610",
+    "ConfTime": "0928",
+    "Qty": "1.000",
+    "UnitDesc": "TAB",
+    "AliseDesc": "Lacidipine 6mg/tab【CCB】"
+  },
+  {
+    "ConfOper": "111768",
+    "ConfDate": "1140610",
+    "ConfTime": "0928",
+    "Qty": "1.000",
+    "UnitDesc": "TAB",
+    "AliseDesc": "Acetylcysteine 600mg/tab【祛痰】"
+  },
+  {
+    "ConfOper": "111768",
+    "ConfDate": "1140610",
+    "ConfTime": "0928",
+    "Qty": "2.000",
+    "UnitDesc": "G",
+    "AliseDesc": "CefTRIaxone 2g/vial"
+  },
+  {
+    "ConfOper": "111768",
+    "ConfDate": "1140610",
+    "ConfTime": "0928",
+    "Qty": "1.000",
+    "UnitDesc": "BOT",
+    "AliseDesc": "KCl 20mEq+5%Dextrose 500ml/bot (20黃綠)"
+  },
+  {
+    "ConfOper": "111768",
+    "ConfDate": "1140610",
+    "ConfTime": "0928",
+    "Qty": "1.000",
+    "UnitDesc": "PK",
+    "AliseDesc": "(袋)NaCl 0.9% 500ml/pack"
+  },
+  {
+    "ConfOper": "111768",
+    "ConfDate": "1140610",
+    "ConfTime": "1144",
+    "Qty": "500.000",
+    "UnitDesc": "MG",
+    "AliseDesc": "Metronidazole 500mg/100ml/bot"
+  },
+  {
+    "ConfOper": "111768",
+    "ConfDate": "1140610",
+    "ConfTime": "1144",
+    "Qty": "1.000",
+    "UnitDesc": "TAB",
+    "AliseDesc": "Tramadol 37.5mg+Acetaminophen 325mg/tab【Ultracet】"
+  },
+  {
+    "ConfOper": "111768",
+    "ConfDate": "1140610",
+    "ConfTime": "1144",
+    "Qty": "0.250",
+    "UnitDesc": "G",
+    "AliseDesc": "Vancomycin 1g/vial"
+  }
+]

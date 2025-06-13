@@ -1,0 +1,56 @@
+[
+  {
+    "app": "",
+    "wbc": "",
+    "epi": "",
+    "ova": "",
+    "rpt_date": "114.05.31",
+    "rpt_time": "11:30",
+    "dic_name": "Routine Gram Stain"
+  },
+  {
+    "app": "",
+    "wbc": "",
+    "epi": "",
+    "ova": "",
+    "rpt_date": "114.05.23",
+    "rpt_time": "11:48",
+    "dic_name": "Routine Gram Stain"
+  },
+  {
+    "app": "黏液性痰",
+    "wbc": ">25/LPF",
+    "epi": "<10/LPF",
+    "ova": "Negative",
+    "rpt_date": "114.05.23",
+    "rpt_time": "11:48",
+    "dic_name": "Sputum Routine"
+  },
+  {
+    "app": "",
+    "wbc": "",
+    "epi": "",
+    "ova": "",
+    "rpt_date": "114.05.22",
+    "rpt_time": "19:55",
+    "dic_name": "Routine Gram Stain"
+  },
+  {
+    "app": "黏液性痰",
+    "wbc": ">25/LPF",
+    "epi": ">25/LPF",
+    "ova": "Negative",
+    "rpt_date": "114.05.22",
+    "rpt_time": "19:55",
+    "dic_name": "Sputum Routine"
+  },
+  {
+    "app": "",
+    "wbc": "",
+    "epi": "",
+    "ova": "",
+    "rpt_date": "114.05.21",
+    "rpt_time": "15:15",
+    "dic_name": "Routine Gram Stain"
+  }
+]

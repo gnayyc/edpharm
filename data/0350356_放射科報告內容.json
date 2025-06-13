@@ -1,0 +1,30 @@
+[
+  {
+    "CHARTNO": "0350356",
+    "NAME": "游",
+    "SEX": "男",
+    "BIRTH_DATE": "1968/12/02",
+    "CLINIC_INFO": "保護措施:(就地接觸)Clostridium difficile困難梭菌;\r\n1.肺炎，未明示病原體 2.敗血症，未明示病原體 3.中性桿狀核粒細胞增加",
+    "OEI_TYPE": "病房",
+    "DEPT_CODE": "呼吸胸腔科",
+    "BED_NO": "3C02",
+    "IPD_SEQ": "IA1451850",
+    "XRAY_KIND": "1",
+    "APP_SEQ": "IXA2553552",
+    "ORDER_DOC_NO": "1862許",
+    "APP_DATE": "2025/06/03",
+    "APP_TIME": "0906",
+    "XRAY_DATE": "2025/06/03",
+    "XRAY_TIME": "05:28",
+    "TECH_OPER": "Z謝",
+    "REPORT_SEQ": "XA25060369935",
+    "DESC_IMP": "攝影項目:\r\n1003 Chest Anteroposterior View – Portable\r\n\r\nNo cardiomegaly. \r\nTortuous thoracic aorta with intimal calcification. \r\nRight pneumothorax post right chest pigtail catheter placement. \r\nConsolidations, cavitory lesions and infiltrations in right lung. \r\nIntact bony thorax. \r\nPost left subclavian chemocatheter, nasogastric tube placement. \r\n ",
+    "ADDENDUM": null,
+    "REPORT_DATE": "2025/06/03",
+    "REPORT_TIME": "15:58",
+    "REPORT_DOC": "2960林",
+    "REPORT_OPER": "2960林",
+    "TRAN_TARGET": null,
+    "REVIEW_DOC": null
+  }
+]

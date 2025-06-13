@@ -1,0 +1,24 @@
+[
+  {
+    "Status": "放射報告",
+    "UniKey": "IXA2553552",
+    "ChartNo": "0350356",
+    "ExamSource": "病房",
+    "ExamDate": "2025/06/03",
+    "ExamType": "Chest  AP  - Portable",
+    "DrNo": "林",
+    "ButtonTitle": "Radiology Report",
+    "ReportDate": "2025/06/03"
+  },
+  {
+    "Status": "放射報告",
+    "UniKey": "IXA2560632",
+    "ChartNo": "0350356",
+    "ExamSource": "病房",
+    "ExamDate": "2025/06/09",
+    "ExamType": "Chest  AP - Erect",
+    "DrNo": "鄭",
+    "ButtonTitle": "Radiology Report",
+    "ReportDate": "2025/06/09"
+  }
+]

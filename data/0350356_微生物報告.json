@@ -1,0 +1,272 @@
+[
+  {
+    "RptDate": "114.06.04",
+    "RptTime": "10:01:05",
+    "ChartNo": "0000350356",
+    "OrganUnicode": "NK564F0259",
+    "OrganCount": "0",
+    "Status": "最終",
+    "SpecName": "Pleural effusion",
+    "DicName": "Anaerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "No Growth",
+        "RptDate": "114.06.04",
+        "RptTime": "09:57:13"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.06.02",
+    "RptTime": "14:39:32",
+    "ChartNo": "0000350356",
+    "OrganUnicode": "NK562L0484",
+    "OrganCount": "0",
+    "Status": "最終",
+    "SpecName": "Pleural effusion",
+    "DicName": "Aerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "No Growth",
+        "RptDate": "114.06.02",
+        "RptTime": "09:25:04"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.06.02",
+    "RptTime": "14:04:10",
+    "ChartNo": "0000350356",
+    "OrganUnicode": "NK562L0407",
+    "OrganCount": "2",
+    "Status": "最終",
+    "SpecName": "Blood",
+    "DicName": "Blood Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Actinomyces odontolyticus",
+        "RptDate": "114.06.02",
+        "RptTime": "08:31:07"
+      },
+      {
+        "OrganName": "Eggerthia catenaformis",
+        "RptDate": "114.06.02",
+        "RptTime": "08:31:07"
+      }
+    ],
+    "RisRptSub": [
+      {
+        "DiskName": "Clindamycin",
+        "Ris1": "I",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Cefmetazole",
+        "Ris1": "S",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Metronidazole",
+        "Ris1": "S",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Penicillin",
+        "Ris1": "S",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Ampicillin/sulbactam",
+        "Ris1": "S",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Piperacillin/Tazobactam",
+        "Ris1": "S",
+        "Ris2": "",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      }
+    ]
+  },
+  {
+    "RptDate": "114.05.30",
+    "RptTime": "15:24:59",
+    "ChartNo": "0000350356",
+    "OrganUnicode": "NK55UN0580",
+    "OrganCount": "2",
+    "Status": "最終",
+    "SpecName": "Pleural effusion",
+    "DicName": "Anaerobic Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "Parvimonas micra",
+        "RptDate": "114.05.30",
+        "RptTime": "12:01:16"
+      },
+      {
+        "OrganName": "Prevotella buccae",
+        "RptDate": "114.05.30",
+        "RptTime": "12:01:16"
+      }
+    ],
+    "RisRptSub": [
+      {
+        "DiskName": "Clindamycin",
+        "Ris1": "R",
+        "Ris2": "R",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Cefmetazole",
+        "Ris1": "S",
+        "Ris2": "S",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Metronidazole",
+        "Ris1": "S",
+        "Ris2": "S",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Penicillin",
+        "Ris1": "R",
+        "Ris2": "S",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Ampicillin/sulbactam",
+        "Ris1": "S",
+        "Ris2": "S",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      },
+      {
+        "DiskName": "Piperacillin/Tazobactam",
+        "Ris1": "S",
+        "Ris2": "S",
+        "Ris3": "",
+        "Ris4": "",
+        "Mic1": "",
+        "Mic2": "",
+        "Mic3": "",
+        "Mic4": ""
+      }
+    ]
+  },
+  {
+    "RptDate": "114.05.28",
+    "RptTime": "16:46:34",
+    "ChartNo": "0000350356",
+    "OrganUnicode": "NK55SP0848",
+    "OrganCount": "0",
+    "Status": "最終",
+    "SpecName": "Blood",
+    "DicName": "Blood Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "No Growth for 5 days",
+        "RptDate": "114.05.28",
+        "RptTime": "16:46:32"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.05.28",
+    "RptTime": "16:45:48",
+    "ChartNo": "0000350356",
+    "OrganUnicode": "NK55SP0834",
+    "OrganCount": "0",
+    "Status": "最終",
+    "SpecName": "Blood",
+    "DicName": "Blood Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "No Growth for 5 days",
+        "RptDate": "114.05.28",
+        "RptTime": "16:45:47"
+      }
+    ],
+    "RisRptSub": []
+  },
+  {
+    "RptDate": "114.05.28",
+    "RptTime": "10:53:09",
+    "ChartNo": "0000350356",
+    "OrganUnicode": "NK55SG0174",
+    "OrganCount": "0",
+    "Status": "最終",
+    "SpecName": "Blood",
+    "DicName": "Blood Culture",
+    "OrganRptSub": [
+      {
+        "OrganName": "No Growth for 5 days",
+        "RptDate": "114.05.28",
+        "RptTime": "10:51:50"
+      }
+    ],
+    "RisRptSub": []
+  }
+]

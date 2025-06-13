@@ -1,0 +1,30 @@
+[
+  {
+    "CHARTNO": "0550953",
+    "NAME": "李",
+    "SEX": "男",
+    "BIRTH_DATE": "1948/09/11",
+    "CLINIC_INFO": "保護措施:(接觸)抗藥性菌株:Carbapenem-Resistant Enterobacteriaceae;\r\n1.呼吸器依賴狀態 2.肺炎，未明示病原體 3.肋膜積水，他處未歸類者",
+    "OEI_TYPE": "病房",
+    "DEPT_CODE": "呼吸胸腔科",
+    "BED_NO": "3C18",
+    "IPD_SEQ": "IA1451761",
+    "XRAY_KIND": "1",
+    "APP_SEQ": "IXA2560337",
+    "ORDER_DOC_NO": "3573陳顗?",
+    "APP_DATE": "2025/06/05",
+    "APP_TIME": "1403",
+    "XRAY_DATE": "2025/06/05",
+    "XRAY_TIME": "04:14",
+    "TECH_OPER": "L蔡尚龍",
+    "REPORT_SEQ": "XA25060671576",
+    "DESC_IMP": "攝影項目:\r\n1003 Chest Anteroposterior View – Portable\r\n\r\n- Normal heart size.  Atherosclerotic aorta. \r\n- Increased infiltrations in bilateral lung fields. \r\n- Bilateral costophrenic angles clear.\r\n- Degenerative change of thoracolumbar spine with osteophyte formation. \r\n- Status post tracheostomy.  \r\n- Status post nasogastric tube insertion. \r\n- Status post pigtail drainage tube placement in left chest.  \r\n",
+    "ADDENDUM": null,
+    "REPORT_DATE": "2025/06/06",
+    "REPORT_TIME": "18:54",
+    "REPORT_DOC": "3464林巧芸",
+    "REPORT_OPER": "3464林巧芸",
+    "TRAN_TARGET": null,
+    "REVIEW_DOC": null
+  }
+]
